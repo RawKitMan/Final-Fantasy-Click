@@ -67,7 +67,7 @@ class Clicky extends Component {
   render() {
     return (
       <div>
-        <nav className="navbar text-white text-center border-bottom border-dark wide-border fixed-top coloring">
+        <nav className="navbar coloring text-white text-center border-bottom border-dark wide-border fixed-top">
           <div className="container-fluid">
             <div className="row w-100">
               <div className="col-md-3 text-sizing">Click That Image!!</div>
