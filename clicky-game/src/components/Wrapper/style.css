@@ -1,6 +1,6 @@
-nav{
+.coloring{
     height: 125px;
-    background-color: rgb(105, 105, 243);
+    background-color: rgb(105, 105, 243) !important;
 }
 
 .wide-border{

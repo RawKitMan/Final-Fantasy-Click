@@ -8,8 +8,11 @@
     "react-dom": "^16.8.4",
     "react-scripts": "2.1.8"
   },
+  "homepage": "https://rawkitman.github.io/Final-Fantasy-Click",
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
