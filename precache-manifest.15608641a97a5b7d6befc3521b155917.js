@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/Final-Fantasy-Click/static/js/runtime~main.2c849163.js"
   },
   {
-    "revision": "6ed3127132ef6140ee03",
-    "url": "/Final-Fantasy-Click/static/js/main.4e731b78.chunk.js"
+    "revision": "e23ee7a4985a025ed194",
+    "url": "/Final-Fantasy-Click/static/js/main.dcd52ef4.chunk.js"
   },
   {
     "revision": "f05a1df3217379e807f2",
     "url": "/Final-Fantasy-Click/static/js/2.fba19b92.chunk.js"
   },
   {
-    "revision": "6ed3127132ef6140ee03",
-    "url": "/Final-Fantasy-Click/static/css/main.eca35d06.chunk.css"
+    "revision": "e23ee7a4985a025ed194",
+    "url": "/Final-Fantasy-Click/static/css/main.49ea019c.chunk.css"
   },
   {
-    "revision": "019b93ad20c538a503bcd58827350b9f",
+    "revision": "84c600b4961c281412fd919fac1a17e4",
     "url": "/Final-Fantasy-Click/index.html"
   }
 ];
