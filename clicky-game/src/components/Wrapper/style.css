@@ -1,4 +1,7 @@
-
+nav{
+    height: 125px;
+    background-color: #6969f3;
+}
 
 .wide-border{
     border-width: 4em
