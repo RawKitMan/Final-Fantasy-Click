@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Final-Fantasy-Click/precache-manifest.15608641a97a5b7d6befc3521b155917.js"
+  "/Final-Fantasy-Click/precache-manifest.d7045456c4c61307065858bbf18132f1.js"
 );
 
 workbox.clientsClaim();
