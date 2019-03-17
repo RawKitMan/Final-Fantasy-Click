@@ -1,0 +1,19 @@
+nav{
+    height: 125px;
+    background-color: rgb(105, 105, 243);
+}
+
+.wide-border{
+    border-width: 4em
+}
+
+.text-sizing{
+    font-size: 25px;
+    color: white;
+	-webkit-text-stroke: 2px black;
+}
+
+.spacing{
+    margin-top: 150px !important;
+    margin-bottom: 50px;
+}
