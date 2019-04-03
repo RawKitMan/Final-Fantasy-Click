@@ -5,4 +5,6 @@ My first React.js app. This is a clicking game where the user needs to click on 
 
 Since this is my first React app, I wanted to keep things relatively simple. I utilized three components here, App (where all things come together), Wrapper (which holds the Navbar and Container to hold each image "card"), and Card (the actual image "cards"). Everything is purely client side with a single page, so we are not utilizing servers, routes, or APIs. Just grab some photos, make them do something when click, and update accordingly. As I get better with React, I will attempt to use more components to break down sections of the HTML even further, such as a Navbar component and a Container component.
 
+
+
 Deployment URL: https://rawkitman.github.io/Final-Fantasy-Click/
